@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{826E7762-72E6-43CC-8297-446E168436DC}</ProjectGuid>
+    <ProjectGuid>{A0EE895F-87EE-4D2F-8C39-900A4F3C1547}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharpLectures</RootNamespace>
-    <AssemblyName>CSharpLectures</AssemblyName>
+    <RootNamespace>Delegates</RootNamespace>
+    <AssemblyName>Delegates</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

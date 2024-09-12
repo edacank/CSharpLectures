@@ -1,0 +1,7 @@
+E:\CSharpLectures\Delegates\bin\Debug\Delegates.exe.config
+E:\CSharpLectures\Delegates\bin\Debug\Delegates.exe
+E:\CSharpLectures\Delegates\bin\Debug\Delegates.pdb
+E:\CSharpLectures\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+E:\CSharpLectures\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+E:\CSharpLectures\Delegates\obj\Debug\Delegates.exe
+E:\CSharpLectures\Delegates\obj\Debug\Delegates.pdb
