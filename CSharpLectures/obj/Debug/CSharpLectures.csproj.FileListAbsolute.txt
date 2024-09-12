@@ -1,0 +1,7 @@
+E:\BauWissenDersleri\CSharpLectures\bin\Debug\CSharpLectures.exe.config
+E:\BauWissenDersleri\CSharpLectures\bin\Debug\CSharpLectures.exe
+E:\BauWissenDersleri\CSharpLectures\bin\Debug\CSharpLectures.pdb
+E:\BauWissenDersleri\CSharpLectures\obj\Debug\CSharpLectures.csproj.AssemblyReference.cache
+E:\BauWissenDersleri\CSharpLectures\obj\Debug\CSharpLectures.csproj.CoreCompileInputs.cache
+E:\BauWissenDersleri\CSharpLectures\obj\Debug\CSharpLectures.exe
+E:\BauWissenDersleri\CSharpLectures\obj\Debug\CSharpLectures.pdb
